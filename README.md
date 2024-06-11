@@ -1,3 +1,3 @@
 # car-rental-system
-project on car rental management system using java.
+building a project on "car rental management system" using core java concepts.
 Author - Saisatish
